@@ -246,3 +246,7 @@ p.author a {
     cursor:pointer; 
     text-decoration: none;
 }
+.card-items {
+  max-height: 300px; /* Ajusta esta altura según tus necesidades */
+  overflow-y: auto;
+}
